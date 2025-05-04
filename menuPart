@@ -1,0 +1,56 @@
+<html>
+<!--Name: Isabell Davis
+    PROG PURPOSE: Menu Part of the Catering
+-->
+<htmllang="en">
+<head>
+<body>
+    <title> The Menu </title>
+</body>
+</head>
+<h1> Family size meals for two or four size portions </h1>
+
+<table>
+    <style>
+        body{
+           text-align:center;
+           color:#9de9f3;
+           background-color: #6e6c6c; 
+           font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        table,td,th{
+            text-align: center;
+            color: black;
+            border-color: black;
+            border-style: double;
+        }
+    </style>
+    <tr>
+
+        <th> Sides </th>
+        <th>Note: $10 for 2 & $15 for 4</th>
+        <td>Roasted pepper rice pilaf </td>
+        <td>Roasted rosemary potatoes</td>
+        <td>Goat cheese olive capr orzo</td>
+        <td>Garlic green beans</td>
+        <td>Roasted Cauliflower</td>
+        <td> Grilled zucchini ribbons</td>
+        <td>Green Goddess Salad (radishes, cucumbers, + green onions)</td>
+        <td>Mixed Greens balsamic vin. bleu cheese walnuts</td>
+    </tr>
+    <tr>
+        <th>Entrees</th>
+        <td>2 portion / 4 portion</td>
+        <td>Grilled Pesto Chicken: $24/$38 </td>
+        <td>Glazed Salmon: $30/$40</td>
+        <td>Chicken Pot Pie: $22/$32</td>
+        <td>Terriyaki Pork Ribs: $16/$32</td>
+    </tr>
+</table> 
+
+    <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/lcZTcfdZ3Ow">
+    </iframe>
+
+</body>
+</html>
